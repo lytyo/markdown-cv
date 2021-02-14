@@ -1,91 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Glenn Kerbiriou's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Glenn Kerbiriou
+Computer Graphics Ph.D. Student at INSA and InterDigital R&I.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+website : <a href="http://glennkerbiriou.yj.fr">glennkerbiriou.yj.fr</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`December 2020 - March 2021` __Virtual Reality engineer__ at INSA and INRIA, Rennes
 
-### Specialized in
+`March 2020 - September 2021` __Internship__ at InterDigital R&I, Rennes. Research on automatic 3D facial caricature generation.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`October 2019 -  February 2020` __Industrial Project__ at ESIR with Corona, Rennes. Implementation of Optimal Multiple Importance Sampling (OptiMIS) for bidirectional light transport simulation.
 
+`June 2019 - September 2019` __Internship__ at ONHYS, Sophia Antipolis. Implementation of crowd rendering and other rendering features in _ONHYS One_ crowd simulation software.
 
-### Research interests
+`June 2018 - September 2018` __Internship__ at INRIA and LOUSIC, Rennes. Cybersecurity subject : Graphical User Authentification.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`June 2016` __Internship__ at Technicolor R&D, Rennes. Virtual Reality subject : Reflection handling in VR.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2020` __ESIR engineering school__, École Supérieure d'Ingénieurs de Rennes, Computer Graphics and Computer Vision option.
+- Image rendering (Light transport and OpenGL), Animation, Physics simulation.
+- Image processing, Image classification, 3D Vision for robotics and Augmented Reality, Image and video compression.
+- Mathematics, Graph algorithms, Algortihms complexity, Data bases.    
+- Management, Communication, Accounting.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015 - 2017` __ESIR Preparatory cycle__, Computer Science and Telecommunication option.
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Programming Languages` C/C++, Python, Java, Matlab, Web Programming.
 
-- Fellow
+`Libraries and Frameworks` OpenGL, Numpy/Scipy, Scikit-learn, Visp, SOFA.
 
+`Softwares` Git, Unity, Blender, Visual studio.
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+## Languages
+French (mother tongue), English (fluent), Spanish (notions).
+## Other interests
+Kitesurf, Windsurf, Infographics & Video editing.
 
